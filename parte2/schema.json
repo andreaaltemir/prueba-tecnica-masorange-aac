@@ -1,0 +1,22 @@
+[
+    {
+        "name": "id",
+        "type": "INTEGER",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "userId",
+        "type": "INTEGER",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "title",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "body",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }
+]
